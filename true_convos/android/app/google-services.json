@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194449130195",
+    "firebase_url": "https://trueconvos-8442b.firebaseio.com",
+    "project_id": "trueconvos-8442b",
+    "storage_bucket": "trueconvos-8442b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194449130195:android:e5ee3340b2e45c2afc0a26",
+        "android_client_info": {
+          "package_name": "com.example.true_convos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194449130195-b4b6i8vj91d1dqqjbfle4189443r5ag9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGwG0tPiUT9dwdjQrlaopNy6oZMkRs-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194449130195-b4b6i8vj91d1dqqjbfle4189443r5ag9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
