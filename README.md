@@ -1,4 +1,11 @@
 # Flutter-Firebase-ChatApp
 Simple chat app with Flutter and firebase.
-## Notifications included
+## Whats included
+- Firebase login and sign up
+- Status update
+- view others status
+- Reply to a status
+- Chat
+- Push notifications
+
 
