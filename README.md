@@ -9,3 +9,7 @@ Simple chat app with Flutter and firebase.
 - Push notifications
 
 ![output](Screenshot_20200412-231428.jpg)
+
+
+![output](Screenshot_20200412-231432.jpg)
+
